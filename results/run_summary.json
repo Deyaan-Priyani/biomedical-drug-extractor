@@ -1,0 +1,18 @@
+{
+  "model": "alvaroalon2/biobert_chemical_ner",
+  "revision": "b57181cea10a3943c35cf31bb375ff9217886730",
+  "torch_version": "2.15.0",
+  "transformers_version": "4.57.6",
+  "abstracts_processed": 100,
+  "abstracts_with_candidates": 40,
+  "candidate_mentions": 170,
+  "unique_candidate_names": 66,
+  "abstracts_requiring_overlapping_windows": 6,
+  "review_sample_size": 20,
+  "review_seed": 42,
+  "precision": 0.3076923076923077,
+  "recall": 1.0,
+  "note": "Scores compare chemical-name predictions with reference drug labels. Review the CSV notes for annotation provenance.",
+  "abstracts_reviewed": 20,
+  "evaluation_file": "evaluation.json"
+}

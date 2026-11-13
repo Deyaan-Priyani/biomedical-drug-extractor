@@ -1,0 +1,522 @@
+[
+  {
+    "pmid": "39585534",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39791720",
+    "predicted_drugs": [
+      "estrogen",
+      "TRZ",
+      "C188-9"
+    ]
+  },
+  {
+    "pmid": "39628960",
+    "predicted_drugs": [
+      "tricarboxylic acid",
+      "glutamine",
+      "fatty acid"
+    ]
+  },
+  {
+    "pmid": "39641443",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39622957",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39713143",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39665981",
+    "predicted_drugs": [
+      "alcohol"
+    ]
+  },
+  {
+    "pmid": "39644451",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39709500",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39703847",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39705763",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39679751",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39716319",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39791706",
+    "predicted_drugs": [
+      "glutamate"
+    ]
+  },
+  {
+    "pmid": "39468521",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39697732",
+    "predicted_drugs": [
+      "ATP"
+    ]
+  },
+  {
+    "pmid": "39676279",
+    "predicted_drugs": [
+      "copper"
+    ]
+  },
+  {
+    "pmid": "39768764",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39604563",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39759144",
+    "predicted_drugs": [
+      "glutathione",
+      "GSH"
+    ]
+  },
+  {
+    "pmid": "39766883",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39733078",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39767607",
+    "predicted_drugs": [
+      "Estrogen",
+      "estradiol"
+    ]
+  },
+  {
+    "pmid": "39630998",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39632259",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39690541",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39731679",
+    "predicted_drugs": [
+      "melatonin"
+    ]
+  },
+  {
+    "pmid": "39713747",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39566531",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39578257",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39722028",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39687827",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39622444",
+    "predicted_drugs": [
+      "crizotinib"
+    ]
+  },
+  {
+    "pmid": "39766183",
+    "predicted_drugs": [
+      "tyrosine",
+      "epirubicin"
+    ]
+  },
+  {
+    "pmid": "40110878",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39557729",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39767552",
+    "predicted_drugs": [
+      "benzo[a]pyrene",
+      "nitrogen oxides",
+      "NO x",
+      "nitrogen dioxide",
+      "NO 2",
+      "O 3",
+      "cadmium",
+      "carbon"
+    ]
+  },
+  {
+    "pmid": "39495737",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39730704",
+    "predicted_drugs": [
+      "neratinib"
+    ]
+  },
+  {
+    "pmid": "39312185",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39710959",
+    "predicted_drugs": [
+      "alcohol"
+    ]
+  },
+  {
+    "pmid": "39500221",
+    "predicted_drugs": [
+      "DM1",
+      "Dxd"
+    ]
+  },
+  {
+    "pmid": "39673684",
+    "predicted_drugs": [
+      "Sodium",
+      "Na",
+      "Na +"
+    ]
+  },
+  {
+    "pmid": "39654023",
+    "predicted_drugs": [
+      "O"
+    ]
+  },
+  {
+    "pmid": "39593118",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39690748",
+    "predicted_drugs": [
+      "peroxide",
+      "isocitrate",
+      "erastin"
+    ]
+  },
+  {
+    "pmid": "39684583",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39614338",
+    "predicted_drugs": [
+      "decitabine"
+    ]
+  },
+  {
+    "pmid": "39680357",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39575313",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39695419",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "40224061",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39706687",
+    "predicted_drugs": [
+      "oxygen"
+    ]
+  },
+  {
+    "pmid": "39461203",
+    "predicted_drugs": [
+      "Artemisitene",
+      "ATT",
+      "Farnesyl-diphosphate"
+    ]
+  },
+  {
+    "pmid": "39721895",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39555066",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39601401",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39652293",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39657676",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39590319",
+    "predicted_drugs": [
+      "glucose",
+      "ATP",
+      "phosphoglycerate"
+    ]
+  },
+  {
+    "pmid": "39580239",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39766061",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39639119",
+    "predicted_drugs": [
+      "chlorpromazine",
+      "CPZ"
+    ]
+  },
+  {
+    "pmid": "39728464",
+    "predicted_drugs": [
+      "estrogen"
+    ]
+  },
+  {
+    "pmid": "39622507",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39697553",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39468547",
+    "predicted_drugs": [
+      "N6-Methyladenosine"
+    ]
+  },
+  {
+    "pmid": "39659926",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39630611",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39538371",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39690159",
+    "predicted_drugs": [
+      "aryl hydrocarbon",
+      "GM-CSF"
+    ]
+  },
+  {
+    "pmid": "39667318",
+    "predicted_drugs": [
+      "nitrogen dioxide",
+      "NO 2",
+      "NO",
+      "estrogen",
+      "progesterone"
+    ]
+  },
+  {
+    "pmid": "39664391",
+    "predicted_drugs": [
+      "iron",
+      "oxygen",
+      "amino acid"
+    ]
+  },
+  {
+    "pmid": "39581858",
+    "predicted_drugs": [
+      "Platycodin D2",
+      "triterpenoid saponin",
+      "saponins",
+      "oxygen"
+    ]
+  },
+  {
+    "pmid": "39764752",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39462368",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39771471",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39735718",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39733107",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39537860",
+    "predicted_drugs": [
+      "Indoleamine"
+    ]
+  },
+  {
+    "pmid": "39678737",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39852119",
+    "predicted_drugs": [
+      "Amino acid",
+      "fatty acids",
+      "amino acids"
+    ]
+  },
+  {
+    "pmid": "39636376",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39531132",
+    "predicted_drugs": [
+      "steroid hormones"
+    ]
+  },
+  {
+    "pmid": "39612162",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39716374",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39682607",
+    "predicted_drugs": [
+      "epirubicin",
+      "cyclophosphamide",
+      "paclitaxel",
+      "Letrozole"
+    ]
+  },
+  {
+    "pmid": "39550407",
+    "predicted_drugs": [
+      "paclitaxel"
+    ]
+  },
+  {
+    "pmid": "39729464",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39628961",
+    "predicted_drugs": [
+      "Pyrrolitinib"
+    ]
+  },
+  {
+    "pmid": "39613022",
+    "predicted_drugs": [
+      "paclitaxel",
+      "GLE"
+    ]
+  },
+  {
+    "pmid": "40171467",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39530054",
+    "predicted_drugs": [
+      "bilirubin"
+    ]
+  },
+  {
+    "pmid": "39795572",
+    "predicted_drugs": [
+      "Aspirin"
+    ]
+  },
+  {
+    "pmid": "39717767",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39366935",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39672077",
+    "predicted_drugs": [
+      "tyrosine"
+    ]
+  },
+  {
+    "pmid": "39567919",
+    "predicted_drugs": []
+  },
+  {
+    "pmid": "39577973",
+    "predicted_drugs": [
+      "ART"
+    ]
+  },
+  {
+    "pmid": "39628959",
+    "predicted_drugs": []
+  }
+]

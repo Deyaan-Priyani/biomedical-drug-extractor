@@ -1,0 +1,149 @@
+{
+  "unit": "Unique drug surface names per abstract, case-insensitive exact matching",
+  "review_file": "review_20.csv",
+  "abstracts_reviewed": 20,
+  "true_positives": 4,
+  "false_positives": 9,
+  "false_negatives": 0,
+  "precision": 0.3076923076923077,
+  "recall": 1.0,
+  "details": [
+    {
+      "pmid": "39852119",
+      "correct": [],
+      "incorrect": [
+        "amino acid",
+        "amino acids",
+        "fatty acids"
+      ],
+      "missed": []
+    },
+    {
+      "pmid": "39468521",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39641443",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39717767",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39557729",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39687827",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39566531",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39768764",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39791706",
+      "correct": [],
+      "incorrect": [
+        "glutamate"
+      ],
+      "missed": []
+    },
+    {
+      "pmid": "39682607",
+      "correct": [
+        "cyclophosphamide",
+        "epirubicin",
+        "letrozole",
+        "paclitaxel"
+      ],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39538371",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39679751",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39462368",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39721895",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39622957",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39713747",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39578257",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39622507",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39735718",
+      "correct": [],
+      "incorrect": [],
+      "missed": []
+    },
+    {
+      "pmid": "39667318",
+      "correct": [],
+      "incorrect": [
+        "estrogen",
+        "nitrogen dioxide",
+        "no",
+        "no 2",
+        "progesterone"
+      ],
+      "missed": []
+    }
+  ]
+}
